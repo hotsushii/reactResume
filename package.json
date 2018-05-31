@@ -1,0 +1,9 @@
+{
+  "name": "reactResume",
+  "version": "1.0.0",
+  "description": "react implementation of skills",
+  "main": "index.js",
+  "repository": "https://github.com/hotsushii/reactResume.git",
+  "author": "joortiz <joortiz@adobe.com>",
+  "license": "MIT"
+}
